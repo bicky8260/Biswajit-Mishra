@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/bicky8260/bicky8260](https://github.com/bicky8260/bicky8260)
+- 👨‍💻 All of my projects are available at [https://github.com/bicky8260/Biswajit-Mishra](https://github.com/bicky8260/Biswajit-Mishra)
 
 - 📫 How to reach me **biswajitmishra545@gmail.com**
 
