@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **biswajitmishra545@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/file/d/1OZc13pK9NARTGYhHaj2G96LlQ8I5ij2T/edit?usp=docslist_api&filetype=msword](https://docs.google.com/file/d/1OZc13pK9NARTGYhHaj2G96LlQ8I5ij2T/edit?usp=docslist_api&filetype=msword)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FqujSptbsu_gB-iOY0c1c2VKMNh5IT9X/view?usp=drivesdk](https://drive.google.com/file/d/1FqujSptbsu_gB-iOY0c1c2VKMNh5IT9X/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am not a Robot.**
 
